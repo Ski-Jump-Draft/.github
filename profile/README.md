@@ -9,6 +9,8 @@ Rozgrywka trwa około 15 minut.
 
 ## Screenshots
 <img width="2317" height="1288" alt="image" src="https://github.com/user-attachments/assets/5d378f35-9384-457c-a18a-5e33437546ab" />
+<img width="2519" height="1334" alt="image" src="https://github.com/user-attachments/assets/01e1d16d-55b8-4e79-8fbb-9ffc46fedfa1" />
+
 
 ## For developers
 For now, project is not open to contributions — we plan to do so once it reaches a stable state.<br>
