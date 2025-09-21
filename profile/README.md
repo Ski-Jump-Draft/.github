@@ -15,4 +15,4 @@ Rozgrywka trwa około 15 minut.
 ## For developers
 For now, project is not open to contributions — we plan to do so once it reaches a stable state.<br>
 You can find the backend repository (F#, C#, ASP.NET) [here](https://github.com/Ski-Jump-Draft/backend)<br>
-You can find the frontend repository (TypeScript, shadcn, Vite) [here](https://github.com/Ski-Jump-Draft/frontend)<br>
+You can find the frontend repository (TypeScript, shadcn, Next.js) [here](https://github.com/Ski-Jump-Draft/frontend)<br>
