@@ -5,7 +5,7 @@ Rozgrywka trwa około 15 minut.
 
 🇬🇧 Be the coach: observe training jumps, draft your team, score in the competition. About 15 min per match.
 
-🎮 Play: https://skijumpdraft.com  
+🎮 Play: https://ski-jump-draft.netlify.app
 
 ## Screenshots
 <img width="2317" height="1288" alt="image" src="https://github.com/user-attachments/assets/5d378f35-9384-457c-a18a-5e33437546ab" />
